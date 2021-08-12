@@ -1,4 +1,5 @@
-<h1 align="center">Hey 👋, I'm Ruhi Rani</h1>
+ <img align="left" width="96" height="100" src="https://media4.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=ecf05e47br8rp5ihlefhjvqzklwareabyc6ttr8iilnqv6s9&rid=giphy.gif&ct=g"><h1 align="center"> Hey 👋, I'm Ruhi Rani</h1>
+
 <h3 align="center">I'm a Software Engineering student interested in Competitive Programming and Web Development.</h3>
 
 
