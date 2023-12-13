@@ -3,7 +3,7 @@
 <h3 align="center">I'm a Software Engineering student interested in Competitive Programming and Web Development.</h3>
 
 
-- 🌱 I’m currently learning **React JS.**
+- 🌱 I’m currently learning **Problem Solving and Web Development.**
 
 - 📫 How to reach me **ruhirani933@gmail.com**
 
